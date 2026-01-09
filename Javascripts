@@ -1,0 +1,3 @@
+function showAlert() {
+    alert("This kids car is safe, fun, and perfect for young drivers!");
+}
