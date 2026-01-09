@@ -1,0 +1,11 @@
+kids-cars-portfolio/
+│
+├── index.html
+├── style.css
+├── script.js
+├── README.md
+└── images/
+    ├── car1.jpg
+    ├── car2.jpg
+    ├── car3.jpg
+    └── car4.jpg
